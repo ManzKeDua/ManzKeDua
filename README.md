@@ -4,10 +4,6 @@
 <img src="https://media1.tenor.com/m/42A6vafhlsEAAAAC/hu-tao-loop.gif" />
 </p>
 
-## SPOTIFY
-<p align="center"><a href="https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz?si=47bbaef2b9544bbb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
 ## My Sosmed
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manzkenzz/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ManzHytam)
