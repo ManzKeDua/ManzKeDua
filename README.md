@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ManzHytam)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-%808080?style=flat-square&logo=Whatsapp&logoColor=white)](wa.me/62889897216372)
 [![Email Badge](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=email&logoColor=white)](mailto:humanznodejs@gmail.com)
-<a href="https://github.com/boedzhanks"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+<a href="https://github.com/ManzKeDua"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
 
 ### ℹ &nbsp;Personal Stuffs
 - 💻 I'm currently studying `Javascript` 🚀.
