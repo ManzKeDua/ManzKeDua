@@ -1,9 +1,5 @@
 ## 👋 Hello, I'm ManzKenz
 
-<p align="center">
-<img src="https://media1.tenor.com/m/42A6vafhlsEAAAAC/hu-tao-loop.gif" />
-</p>
-
 ## My Sosmed
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/manzkenzz/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ManzHytam)
